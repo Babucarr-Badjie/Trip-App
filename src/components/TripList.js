@@ -5,8 +5,6 @@ export default function TripList() {
   const [trips, setTrips] = useState([]);
   const [Url, setUrl] = useState("http://localhost:3000/trips");
 
-  console.log(trips);
-
   useEffect(() => {
     fetch(Url)
       .then((response) => response.json())
