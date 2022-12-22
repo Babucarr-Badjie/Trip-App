@@ -13,7 +13,7 @@ export default function TripList() {
 
   return (
     <div className="trip-list">
-      <h2>My Trip List</h2>
+      <h2>My Trips List</h2>
       <ul>
         {trips.map((trip) => (
           <li key={trip.id}>
