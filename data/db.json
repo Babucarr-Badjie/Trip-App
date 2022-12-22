@@ -1,0 +1,40 @@
+{
+  "trips": [
+    {
+      "title": "2 Night Stay in Madrid",
+      "price": "£195",
+      "id": "1",
+      "location": "Spain"
+    },
+    {
+      "title": "3 Night Stay in Banjul",
+      "price": "£295",
+      "id": "2",
+      "location": "Africa"
+    },
+    {
+      "title": "4 Night Stay in London",
+      "price": "£345",
+      "id": "3",
+      "location": "England"
+    },
+    {
+      "title": "3 Night Stay in New York",
+      "price": "£325",
+      "id": "4",
+      "location": "USA"
+    },
+    {
+      "title": "5 Night Stay in Johannesburg",
+      "price": "£375",
+      "id": "5",
+      "location": "Africa"
+    },
+    {
+      "title": "7 Night Stay in Dar es Salaam",
+      "price": "£480",
+      "id": "6",
+      "location": "Africa"
+    }
+  ]
+}
